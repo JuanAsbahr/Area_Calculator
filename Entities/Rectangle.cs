@@ -1,5 +1,4 @@
 ﻿using Area_Calculator.Entities.Enums;
-using System.Drawing;
 
 namespace Area_Calculator.Entities
 {

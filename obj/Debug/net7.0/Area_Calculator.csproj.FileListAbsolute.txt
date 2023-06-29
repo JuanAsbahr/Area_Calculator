@@ -1,0 +1,15 @@
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Area_Calculator\obj\Debug\net7.0\Area_Calculator.csproj.AssemblyReference.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Area_Calculator\obj\Debug\net7.0\Area_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Area_Calculator\obj\Debug\net7.0\Area_Calculator.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Area_Calculator\obj\Debug\net7.0\Area_Calculator.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Area_Calculator\obj\Debug\net7.0\Area_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Area_Calculator\bin\Debug\net7.0\Area_Calculator.exe
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Area_Calculator\bin\Debug\net7.0\Area_Calculator.deps.json
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Area_Calculator\bin\Debug\net7.0\Area_Calculator.runtimeconfig.json
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Area_Calculator\bin\Debug\net7.0\Area_Calculator.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Area_Calculator\bin\Debug\net7.0\Area_Calculator.pdb
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Area_Calculator\obj\Debug\net7.0\Area_Calculator.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Area_Calculator\obj\Debug\net7.0\refint\Area_Calculator.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Area_Calculator\obj\Debug\net7.0\Area_Calculator.pdb
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Area_Calculator\obj\Debug\net7.0\Area_Calculator.genruntimeconfig.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Area_Calculator\obj\Debug\net7.0\ref\Area_Calculator.dll
